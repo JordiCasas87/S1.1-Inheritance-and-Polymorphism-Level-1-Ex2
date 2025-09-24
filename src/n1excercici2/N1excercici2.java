@@ -16,10 +16,10 @@ public class N1excercici2 {
         System.out.println();
 		System.out.println(car1.toString());
 
-        // This method belongs to the object (it is called from the object car1).
+        // This method belongs to the object
         car1.accelerate();
 
-        // This method is static, it belongs to the class (it is called with the class Car).
+        // This method is static, it belongs to the class
         Car.brake();
 
         // This setter is static, it is a setter of the class, not of the object.
