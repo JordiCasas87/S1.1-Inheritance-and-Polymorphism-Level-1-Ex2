@@ -1,0 +1,17 @@
+# ---- IntelliJ IDEA ----
+.idea/
+*.iml
+out/
+
+# ---- Eclipse ----
+.classpath
+.project
+.settings/
+
+# ---- Java ----
+*.class
+*.log
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
